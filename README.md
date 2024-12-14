@@ -1,6 +1,6 @@
 # CS330 - Design Patterns
 
-My project implementations for CS 330 Introduction to Design Patterns at UNR, Fall 2024.
+My project implementations for CS 330 Introduction to Design Patterns at UNR, Fall 2022.
 
 ## About
 
